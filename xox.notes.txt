@@ -1,0 +1,8 @@
+2-dimensional array to hold stones, with value 0 for an empty point, 1
+for a black stone, 2 for white.
+
+Variable to hold turns.
+
+Clickinng an occupied point removes the stone.
+
+Pressing space manually switches turns.
